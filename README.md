@@ -9,7 +9,7 @@ File "List_of_Drug.xlsx" contains a list of drugs.
 
 **Algorithms:**
 
-File ".....m" is the MATLAB script to calculate topological and biological features for mutated genes.
+File "NGMG.m" is the MATLAB script to predict the DDI network.
 
 
 
