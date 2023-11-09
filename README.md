@@ -4,7 +4,6 @@
 
 **Data set:**
 
-File "Drug_Drug_Interaction.xlsx" contains a list of interaction between Drugs.
 File "List_of_Drug.xlsx" contains a list of drugs.
 
 **Algorithms:**
