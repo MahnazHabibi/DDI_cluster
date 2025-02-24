@@ -16,6 +16,7 @@ To run the machine learning algorithm, follow the "Read_me.txt" steps.
 
 
 **Link of paper:**
+https://mlg-europe.github.io/2024/papers/80/Submission/ECML.pdf
 
 
 **Contact:**
